@@ -7,7 +7,7 @@ Automate your email verification this script!
 - Install dependencies by running: `npm install axios`.
 
 ## How to Use
-1. Clone this repository: `git clone https://github.com/Yuurichan-N3/MelodaiBot-AutoVerification.git`
+1. Clone this repository: `git clone https://github.com/Yuurichan-N3/Melodai-Auto-Reff.git`
 2. Navigate to the project directory: `cd Melodai-Auto-Reff`
 3. Install dependencies: `npm install`
 4. Run the script: `node bot.js`
